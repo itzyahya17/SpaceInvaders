@@ -1,5 +1,5 @@
 # Space Invader
-### AoICT Lab Project — BCS 1-B
+### AoICT Lab Project
 **Made by: Muhammad Yahya**
 
 ---
