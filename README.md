@@ -1,4 +1,4 @@
-# Space Invader
+# Space Invaders
 ### AoICT Lab Project
 **Made by: Muhammad Yahya**
 
@@ -6,7 +6,7 @@
 
 ## About the Game
 
-Space Invader is a 2D space shooter game built with Python and Pygame. You control an orange spaceship at the bottom of the screen and must destroy waves of alien enemies across 5 levels. Each level gets faster, harder, and throws more enemies at you. Destroy all enemies on each level to advance. If your health reaches zero, it is game over.
+Space Invaders is a 2D space shooter game built with Python and Pygame. You control an orange spaceship at the bottom of the screen and must destroy waves of alien enemies across 5 levels. Each level gets faster, harder, and throws more enemies at you. Destroy all enemies on each level to advance. If your health reaches zero, it is game over.
 
 ---
 
